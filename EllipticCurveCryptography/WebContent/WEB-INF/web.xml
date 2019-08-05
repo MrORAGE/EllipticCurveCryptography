@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <display-name>EllipticCurveCryptography</display-name>
+  <welcome-file-list>
+    <welcome-file>welcome.jsp</welcome-file>
+  </welcome-file-list>
+  
+  <!--
+  <servlet>
+    <servlet-name>ControlerServlet</servlet-name>
+    <servlet-class>controler.ControlerServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ControlerServlet</servlet-name>
+    <url-pattern>/controlerservlet</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+    <servlet-name>GenerateKeyPair</servlet-name>
+    <servlet-class>controler.GenerateKeyPair</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>GenerateKeyPair</servlet-name>
+    <url-pattern>/generatekeypair</url-pattern>
+  </servlet-mapping>
+  
+  
+  <servlet>
+  <servlet-name>GenerateSession</servlet-name>
+  <servlet-class>controler.GenerateSession</servlet-class>
+  </servlet>
+  <servlet-mpping>
+  <servlet-name>GenerateSession</servlet-name>
+  <url-patter>/generatesession</url-patter>
+  </servlet-mpping>
+  -->
+</web-app>
